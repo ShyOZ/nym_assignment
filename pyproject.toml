@@ -1,0 +1,10 @@
+[project]
+name = "nym-assignment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "dataclasses>=0.8",
+    "pdfplumber>=0.11.4",
+]
